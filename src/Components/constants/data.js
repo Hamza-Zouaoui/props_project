@@ -1,0 +1,6 @@
+export const profile = {
+    fullName: 'Lionel Messi',
+    bio:'Lionel Andrés Messi ( born 24 June 1987), also known as Leo Messi, is an Argentine professional footballer who plays as a forward for Ligue 1 club Paris Saint-Germain and captains the Argentina national team. Often considered the best player in the world and widely regarded as one of the greatest players of all time, Messi has won a record seven Ballon Or awards, a record six European Golden Shoes, and in 2020 was named to the Ballon Or Dream Team. Until leaving the club in 2021, he had spent his entire professional career with Barcelona, where he won a club-record 35 trophies, including ten La Liga titles, seven Copa del Rey titles and four UEFA Champions Leagues. A prolific goalscorer and creative playmaker, Messi holds the records for most goals in La Liga , a La Liga and European league season, most hat-tricks in La Liga and the UEFA Champions League, and most assists in La Liga, a La Liga season and the Copa América. He also holds the record for most international goals by a South American male. Messi has scored over 750 senior career goals for club and country, and has the most goals by a player for a single club.',
+    profession: 'Soccer Player',
+    image:'https://www.sport.fr/wp-content/uploads/2021/03/Icon_PS_210315_542-1.jpg',
+}
